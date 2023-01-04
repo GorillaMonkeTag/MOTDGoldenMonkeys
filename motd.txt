@@ -1,0 +1,3 @@
+Golden MOTD
+
+Hey Golden Monkeys! This is a Message of the Day test!
