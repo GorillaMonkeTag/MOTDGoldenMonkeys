@@ -1,9 +1,5 @@
 Golden MOTD
 
-Hey Golden Monkeys! Today is just a couple patches, nothing much.
+Hey Golden Monkeys! Today I made it execute your name to playfab on every letter!
 
 If you have tutorials or ideas join the discord! It's on the black board next to the mirror.
-
-Smokey Said you're gay
-
-Duck said Monke
